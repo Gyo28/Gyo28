@@ -1,5 +1,11 @@
-## Hi there 👋
+<p align="center">
+  <h1>Hi! I'm Ruben Hernandez 👋</h1>
+</p>
 
+<p align="center">
+  Bienvenido a mi repositorio. Aquí encontrarás mis proyectos, prácticas y experimentos como desarrollador web.
+</p>
+ I´m a student of engineered  industrial and systems 
 <!--
 **Gyo28/Gyo28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
