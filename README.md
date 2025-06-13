@@ -8,8 +8,7 @@
 <p align="center">
   I´m a student of industrial and systems engineering. 
 </p>
-<img src="https://github.com/Gyo28/Gyo28/blob/main/Black%20and%20Yellow%20Geometric%20Opening%20Soon%20Banner%20(1).png">
-<p align="center">
+<img src="https://github.com/Gyo28/Gyo28/blob/main/Black%20and%20Yellow%20Under%20Construction%20Banner%20(1).png">
   <h2>About me:</h2>
 </p>
 <p>° I would love to learn more about programming 🫰</p>
