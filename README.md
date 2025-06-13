@@ -13,5 +13,5 @@
   <h2>About me:</h2>
 </p>
 <p>° English B2</p>
-<p>°I would love to learn more about programming 🫶</p>
+<p>°I would love to learn more about programming 🫰</p>
 
