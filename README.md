@@ -17,4 +17,4 @@
 <p>° I volunteered at Ingenium ABP and the National Association of Universities and Higher Education Institutions.</p>
  <h2>Technology and software:</h2>
 
- <img src="https://github.com/Gyo28/Gyo28/blob/main/imagen_2025-06-12_214310673.png">
+ <img src="https://github.com/Gyo28/Gyo28/blob/main/1%20(2).png">
