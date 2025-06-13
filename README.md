@@ -5,7 +5,10 @@
 <p align="center">
   Welcome to my repository. You can find my projects like programmer web here.
 </p>
- I´m a student of engineered  industrial and systems 
+<p align="center">
+  I´m a student of engineered  industrial and systems. 
+</p>
+
 <!--
 **Gyo28/Gyo28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
