@@ -12,12 +12,9 @@
 <p align="center">
   <h2>About me:</h2>
 </p>
-<p>° English B2</p>
 <p>° I would love to learn more about programming 🫰</p>
+<p>° English B2</p>
 <p>° I volunteered at Ingenium ABP and the National Association of Universities and Higher Education Institutions.</p>
  <h2>Technology and software:</h2>
- <p>HTML & CSS || Beginner</p>
- <p>Python || Beginner </p>
- <p>JavaScript || Beginner</p>
- <p>Java || Beginner</p>
- <img src="
+
+ <img src="https://github.com/Gyo28/Gyo28/blob/main/imagen_2025-06-12_214310673.png">
