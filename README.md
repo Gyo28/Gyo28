@@ -14,4 +14,10 @@
 </p>
 <p>° English B2</p>
 <p>° I would love to learn more about programming 🫰</p>
-
+<p>° I volunteered at Ingenium ABP and the National Association of Universities and Higher Education Institutions.</p>
+ <h2>Technology and software:</h2>
+ <p>HTML & CSS || Beginner</p>
+ <p>Python || Beginner </p>
+ <p>JavaScript || Beginner</p>
+ <p>Java || Beginner</p>
+ <img src="
