@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Bienvenido a mi repositorio. Aquí encontrarás mis proyectos, prácticas y experimentos como desarrollador web.
+  Welcome to my repository. You can find my projects like programmer web here.
 </p>
  I´m a student of engineered  industrial and systems 
 <!--
